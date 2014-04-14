@@ -1,5 +1,5 @@
 {
-    "name": "seiffert/crowd-rest-bundle",
+    "name": "flagbit/crowd-rest-bundle",
     "description": "This bundle provides a simple API for Atlassian Crowd's REST API.",
     "version": "1.0.0",
     "license": "CC-BY-SA-3.0",
@@ -9,7 +9,7 @@
     "target-dir": "Seiffert/CrowdRestBundle",
     "require": {
         "php": ">=5.3.3",
-        "symfony/symfony": "2.2.0",
+        "symfony/symfony": "2.*",
         "guzzle/guzzle": "*"
     },
     "require-dev": {
